@@ -18,7 +18,7 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
 ```
 
 ## Step 2 — Add a giggle
-From **Music**, add ``||music:play sound until done||`` under the face and choose **giggle**.
+From **Music**, add ``||music:play giggle until done||`` under the face. If it shows a different sound, click the dropdown and choose **giggle**.
 
 ```blocks
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
