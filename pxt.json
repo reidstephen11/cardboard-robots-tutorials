@@ -1,0 +1,20 @@
+{
+    "name": "cardboard-robots-tutorials",
+    "description": "MakeCode micro:bit sensor tutorials for Year 7 Cardboard Robots (Sensor Code Lab) - Meridan State College",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "shake.md",
+        "sound.md",
+        "light.md",
+        "temperature.md",
+        "logo.md",
+        "compass.md"
+    ],
+    "preferredEditor": "blocksprj"
+}
