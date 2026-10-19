@@ -43,8 +43,7 @@ basic.forever(function () {
 })
 ```
 
-#### ~ tutorialhint
-Use ``||basic:forever||`` from **Basic** instead of on button A pressed. Blocks inside forever run again and again.
+**Hint:** Use ``||basic:forever||`` from **Basic** instead of on button A pressed. Blocks inside forever run again and again.
 
 
 ## Finished @showdialog

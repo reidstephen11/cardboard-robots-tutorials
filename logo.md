@@ -42,8 +42,7 @@ input.onLogoEvent(TouchButtonEvent.LongPressed, function () {
 })
 ```
 
-#### ~ tutorialhint
-Drag in another ``||input:on logo pressed||`` and change **pressed** to **long pressed**.
+**Hint:** Drag in another ``||input:on logo pressed||`` and change **pressed** to **long pressed**.
 
 
 ## Finished @showdialog

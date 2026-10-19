@@ -44,8 +44,7 @@ Find the number that works in your room by testing.
 input.setSoundThreshold(SoundThreshold.Loud, 128)
 ```
 
-#### ~ tutorialhint
-In **Input**, click **more**. Find ``||input:set loud sound threshold||`` and put it in ``||basic:on start||``. Try **200**, test it, then change the number.
+**Hint:** In **Input**, click **more**. Find ``||input:set loud sound threshold||`` and put it in ``||basic:on start||``. Try **200**, test it, then change the number.
 
 
 ## Finished @showdialog

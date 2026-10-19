@@ -40,8 +40,7 @@ Write down the number in normal light, then with your hand over the LEDs. Pick a
 basic.showNumber(input.lightLevel())
 ```
 
-#### ~ tutorialhint
-``||basic:show number||`` is in **Basic**. Drag ``||input:light level||`` out of the bar graph and into show number, then delete the bar graph.
+**Hint:** ``||basic:show number||`` is in **Basic**. Drag ``||input:light level||`` out of the bar graph and into show number, then delete the bar graph.
 
 
 ## Finished @showdialog

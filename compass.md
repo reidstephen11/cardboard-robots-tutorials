@@ -37,8 +37,7 @@ basic.forever(function () {
 })
 ```
 
-#### ~ tutorialhint
-Use ``||logic:if then else||`` from **Logic**, with a comparison like ``||logic:0 < 0||``. North is at both ends of the numbers (near 0 and near 359), so you'll need ``||logic:or||``.
+**Hint:** Use ``||logic:if then else||`` from **Logic**, with a comparison like ``||logic:0 < 0||``. North is at both ends of the numbers (near 0 and near 359), so you'll need ``||logic:or||``.
 
 
 ## Finished @showdialog

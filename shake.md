@@ -45,8 +45,7 @@ input.onGesture(Gesture.ScreenDown, function () {
 })
 ```
 
-#### ~ tutorialhint
-Drag in another ``||input:on shake||`` and click its dropdown. **screen down** and **screen up** are in the list.
+**Hint:** Drag in another ``||input:on shake||`` and click its dropdown. **screen down** and **screen up** are in the list.
 
 
 ## Finished @showdialog
