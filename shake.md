@@ -37,7 +37,7 @@ Then click **Download**, and shake the real micro:bit.
 ## Challenge — Put me down!
 Make the robot **sad** when it's turned face down, and **happy** again when it's turned face up.
 
-Test this one on the real micro:bit: the simulator can only shake.
+Test this one on the real micro:bit: the simulator's button only does a shake.
 
 ```ghost
 input.onGesture(Gesture.ScreenDown, function () {

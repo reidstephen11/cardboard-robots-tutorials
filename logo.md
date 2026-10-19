@@ -35,6 +35,8 @@ Then click **Download**, and tap the real logo.
 ## Challenge — Pat or poke?
 A quick tap is a pat. Make **holding your finger on the logo** give a different reaction, like an angry face and a sad sound.
 
+To test it in the simulator, hold the mouse button down on the logo for two seconds.
+
 ```ghost
 input.onLogoEvent(TouchButtonEvent.LongPressed, function () {
     basic.showIcon(IconNames.Angry)

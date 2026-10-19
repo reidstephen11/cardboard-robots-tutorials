@@ -35,7 +35,7 @@ Then click **Download**, and press A on the real micro:bit.
 ## Challenge — Hot hands
 Make the temperature show **all the time**, not only when you press A.
 
-Then hold the real micro:bit in your cupped hands for 30 seconds. How many degrees does it go up?
+Then hold the real micro:bit in your cupped hands for a minute. How many degrees does it go up?
 
 ```ghost
 basic.forever(function () {
